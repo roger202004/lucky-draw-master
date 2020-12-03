@@ -45,7 +45,7 @@ export default new Vuex.Store({
     },
     setClearStore(state) {
       state.config = {
-        name: '年会抽奖',
+        name: '年會抽獎',
         number: 70,
         firstPrize: 1
       };
