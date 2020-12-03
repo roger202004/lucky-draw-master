@@ -1,6 +1,6 @@
 <template>
   <div class="c-Publicity">
-    <h5 class="title text-center">BNI長和分會 --- 梁晉恩謹獻</h5>
+    <h1 class="title ">BNI長和分會 --- 梁晉恩謹獻</h1>
     <!--<el-carousel
       height="50px"
       :autoplay="false"
@@ -56,7 +56,6 @@ export default {
 </script>
 <style lang="scss">
 .c-Publicity {
-  height: 100%;
   // width: 1000px;
   background-color: rgba(255, 255, 255, 0.1);
   margin: 0 auto;
