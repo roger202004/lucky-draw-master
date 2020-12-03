@@ -32,7 +32,7 @@
     <el-row class="photo">
       <label>已選照片</label>
       <img v-if="value" :src="value" alt="img" :width="140" :height="140" />
-      <span v-else>暂未选择</span>
+      <span v-else>暂未選擇</span>
     </el-row>
     <el-row>
       支持jpg和png，照片大小不能超過150kb，建議20-50kb，建議尺寸為160*160px
