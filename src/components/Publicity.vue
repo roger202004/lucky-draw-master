@@ -1,6 +1,6 @@
 <template>
   <div class="c-Publicity">
-    <span class="title text-center"> BNI長和分會 --- 梁晉恩謹獻</span>
+    <h5 class="title text-center">BNI長和分會 --- 梁晉恩謹獻</h5>
     <!--<el-carousel
       height="50px"
       :autoplay="false"
@@ -80,7 +80,13 @@ export default {
       .title {
         color: red;
         font-size: 20px;
+        text-align: center;
       }
+    }
+    .title {
+      color: red;
+      font-size: 20px;
+      text-align: center;
     }
   }
   .title {
