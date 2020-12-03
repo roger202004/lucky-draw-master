@@ -1,6 +1,6 @@
 <template>
   <div class="c-Publicity">
-    <span v-if="item.title" class="title"> BNI長和分會 --- 梁晉恩謹獻</span>
+    <span class="title"> BNI長和分會 --- 梁晉恩謹獻</span>
     <!--<el-carousel
       height="50px"
       :autoplay="false"
